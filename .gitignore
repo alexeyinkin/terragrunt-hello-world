@@ -1,0 +1,7 @@
+.idea
+terraform/keys/*
+!terraform/keys/.gitkeep
+
+**/.terragrunt-cache
+**/.terraform.lock.hcl
+**/terragrunt-debug.tfvars.json
